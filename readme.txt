@@ -30,4 +30,4 @@ Om toegang te krijgen tot het beheerpaneel, log je in met een account met de rol
 
 ## Credits
 
-Dit project is gemaakt door [Jouw Naam of team].
+Dit project is gemaakt door Sjoerd Bemelmans.
